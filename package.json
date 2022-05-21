@@ -1,0 +1,18 @@
+{
+  "name": "wpstickerbot",
+  "version": "1.0.0",
+  "description": "wp sticker bot test",
+  "main": "index.js",
+  "engines": {
+    "node": "18.1",
+    "npm": "8.9.0"
+  },
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Atakan",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.36.5"
+  }
+}
